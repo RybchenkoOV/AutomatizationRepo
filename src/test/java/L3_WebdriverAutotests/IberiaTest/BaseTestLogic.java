@@ -42,4 +42,5 @@ public class BaseTestLogic {
         driver.manage().logs().get(LogType.BROWSER).getAll().forEach(System.out::println);
         driver.quit();
     }
+
 }

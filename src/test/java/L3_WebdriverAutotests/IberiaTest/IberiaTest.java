@@ -48,7 +48,6 @@ public class IberiaTest extends BaseTestLogic {
                         "underline hidden-xs hidden-sm hidden-md']"));
         Assertions.assertEquals("Добро Пожаловать!", greetings.getText());
     }
-
 }
 
 

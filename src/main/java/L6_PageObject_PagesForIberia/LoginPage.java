@@ -49,5 +49,4 @@ public class LoginPage extends BasePage {
         buttonSubmit.click();
         return this;
     }
-
 }

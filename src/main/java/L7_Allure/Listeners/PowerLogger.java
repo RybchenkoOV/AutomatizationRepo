@@ -151,4 +151,5 @@ public class PowerLogger implements WebDriverEventListener {
     public void afterGetText(WebElement webElement, WebDriver webDriver, String s) {
 
     }
+
 }
